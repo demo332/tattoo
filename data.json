@@ -1,0 +1,204 @@
+{
+ "annonce": "",
+ "fonctionnement": "Sans rendez-vous : passage libre selon les disponibilités des artistes.\nLe jeudi : sur rendez-vous uniquement (séances et consultations de 15 min).",
+ "minPrice": "",
+ "hours": [
+  [
+   "Lundi",
+   "à compléter"
+  ],
+  [
+   "Mardi",
+   "à compléter"
+  ],
+  [
+   "Mercredi",
+   "à compléter"
+  ],
+  [
+   "Jeudi",
+   "sur RDV"
+  ],
+  [
+   "Vendredi",
+   "à compléter"
+  ],
+  [
+   "Samedi",
+   "à compléter"
+  ],
+  [
+   "Dimanche",
+   "à compléter"
+  ]
+ ],
+ "consult": {
+  "start": "14:00",
+  "end": "17:00",
+  "step": 15,
+  "closed": [],
+  "taken": {}
+ },
+ "artists": [
+  {
+   "id": "siaan",
+   "name": "Sïaan",
+   "handle": "siaan_ttt",
+   "tags": [
+    "Graphique",
+    "Geek",
+    "Dark fantasy"
+   ],
+   "bio": "Portfolio complet et dernières pièces sur son compte Instagram."
+  },
+  {
+   "id": "camille",
+   "name": "Camille",
+   "handle": "loedemenoir",
+   "tags": [
+    "Blackwork",
+    "Dark fantasy",
+    "Graphique"
+   ],
+   "bio": "Portfolio complet et dernières pièces sur son compte Instagram."
+  }
+ ],
+ "gallery": [
+  {
+   "a": "siaan",
+   "s": "geek",
+   "img": "",
+   "alt": ""
+  },
+  {
+   "a": "camille",
+   "s": "dark",
+   "img": "",
+   "alt": ""
+  },
+  {
+   "a": "camille",
+   "s": "geek",
+   "img": "",
+   "alt": ""
+  },
+  {
+   "a": "siaan",
+   "s": "dark",
+   "img": "",
+   "alt": ""
+  },
+  {
+   "a": "siaan",
+   "s": "geek",
+   "img": "",
+   "alt": ""
+  },
+  {
+   "a": "camille",
+   "s": "dark",
+   "img": "",
+   "alt": ""
+  },
+  {
+   "a": "camille",
+   "s": "geek",
+   "img": "",
+   "alt": ""
+  },
+  {
+   "a": "siaan",
+   "s": "dark",
+   "img": "",
+   "alt": ""
+  }
+ ],
+ "flashes": [
+  {
+   "id": "Flash 01",
+   "a": "siaan",
+   "taille": "env. 8 cm",
+   "prix": "",
+   "img": "",
+   "dispo": true
+  },
+  {
+   "id": "Flash 02",
+   "a": "camille",
+   "taille": "env. 10 cm",
+   "prix": "",
+   "img": "",
+   "dispo": true
+  },
+  {
+   "id": "Flash 03",
+   "a": "siaan",
+   "taille": "env. 12 cm",
+   "prix": "",
+   "img": "",
+   "dispo": true
+  },
+  {
+   "id": "Flash 04",
+   "a": "camille",
+   "taille": "env. 7 cm",
+   "prix": "",
+   "img": "",
+   "dispo": false
+  },
+  {
+   "id": "Flash 05",
+   "a": "siaan",
+   "taille": "env. 15 cm",
+   "prix": "",
+   "img": "",
+   "dispo": true
+  },
+  {
+   "id": "Flash 06",
+   "a": "camille",
+   "taille": "env. 9 cm",
+   "prix": "",
+   "img": "",
+   "dispo": true
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quel est le tarif minimum ?",
+   "r": "Chaque tatouage est chiffré selon sa taille, son style et le temps nécessaire. Un prix minimum s’applique aux petites pièces : il couvre le matériel stérile à usage unique et la préparation. Décris ton projet dans le formulaire pour recevoir un devis."
+  },
+  {
+   "q": "Faut-il verser un acompte ?",
+   "r": "Oui pour les projets sur rendez-vous : l’acompte bloque ton créneau et rémunère le temps de dessin. Il est déduit du prix final. En cas d’annulation tardive ou de rendez-vous manqué, il peut être conservé."
+  },
+  {
+   "q": "Puis-je venir sans rendez-vous ?",
+   "r": "Oui, du moment qu’un artiste est disponible, sauf le jeudi qui est réservé aux rendez-vous. Pour une grande pièce, réserve plutôt une consultation de 15 min le jeudi."
+  },
+  {
+   "q": "Comment réserver un flash ?",
+   "r": "Clique sur « Réserver » sous le flash : le formulaire se remplit avec sa référence. Envoie le message en DM, l’artiste te confirme la disponibilité. Chaque flash n’est tatoué qu’une fois."
+  },
+  {
+   "q": "Puis-je apporter mes références ?",
+   "r": "Oui, c’est même conseillé. Ajoute tes photos d’inspiration au formulaire puis envoie-les dans la conversation Instagram avec ton message."
+  },
+  {
+   "q": "Et si j’ai moins de 18 ans ?",
+   "r": "En France, tatouer un mineur nécessite une autorisation écrite d’un parent ou tuteur légal. Pose la question au salon en DM avant de venir."
+  },
+  {
+   "q": "Comment préparer ma séance ?",
+   "r": "Mange bien avant de venir et hydrate-toi.\nÉvite l’alcool la veille et le jour même.\nViens avec une peau saine, sans coup de soleil sur la zone.\nPorte une tenue qui laisse la zone facilement accessible."
+  }
+ ],
+ "soins": [
+  "Garde le film protecteur le temps indiqué par ton tatoueur.",
+  "Lave-toi les mains, puis nettoie le tatouage à l’eau tiède et au savon doux, sans frotter. Sèche en tamponnant.",
+  "Applique une fine couche de crème cicatrisante, 2 à 3 fois par jour.",
+  "Pendant la cicatrisation : pas de soleil, de piscine, de mer, de bain ni de sauna.",
+  "Ne gratte pas et n’arrache jamais les croûtes ou les peaux qui pèlent.",
+  "Rougeur qui s’étend, chaleur, fièvre ou écoulement : consulte un médecin."
+ ]
+}
